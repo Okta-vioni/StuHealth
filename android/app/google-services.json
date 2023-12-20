@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501437420168",
+    "project_id": "stuhealth-database-2ba1f",
+    "storage_bucket": "stuhealth-database-2ba1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501437420168:android:197911dd5c830dda55453d",
+        "android_client_info": {
+          "package_name": "com.example.pbl_stuhealth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKe3bEiaM-bi82d3YrN7w7eLmxtrtOWZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
